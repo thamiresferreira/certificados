@@ -1,6 +1,7 @@
 Projeto Certificados
 
 Automação de criação de certificados.
+
 Requisitos:
 Planilha de excel com nomes 
 Imagem do certificado em jpg/png
@@ -9,7 +10,7 @@ Data do evento
 Período/carga horária
 Assinatura
 Nome curso/evento
-
+Lista de emails
 
 Sem necessidade de bancos de dados
 Usar flask
