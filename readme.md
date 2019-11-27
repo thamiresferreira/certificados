@@ -23,4 +23,5 @@
 * Pillow para tratar imagens   
 * Pandas para ler o excel  
 * Fazer documentação bem detalhada  
-* Código em inglês * Usar eixos do github
+* Código em inglês  
+* Usar eixos do github
